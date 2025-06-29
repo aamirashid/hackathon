@@ -1,3 +1,3 @@
 ## 4-Hours Hackathon Challenge
 
-### **Build an AI Chatbot Using OpenAI Agent SDK & Chainlit
+### **Building an AI Chatbot using OpenAI Agent SDK & Chainlit**
